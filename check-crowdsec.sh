@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define your CrowdSec API key and Discord webhook URL
-CROWDSEC_API_KEY="YOUR-APIP-KEY" # Replace with your actual CrowdSec API key
+CROWDSEC_API_KEY="YOUR-API-KEY" # Replace with your actual CrowdSec API key
 DISCORD_WEBHOOK_URL="YOUR-DISCORD-WEBHOOK-URL"
 
 # Function to check IP and send Discord notification if blacklisted
